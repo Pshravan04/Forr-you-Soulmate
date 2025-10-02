@@ -15760,9 +15760,9 @@ const Fw = rr("X", [["path", {
         title: "Read My Birthday Wishes Letter 💌",
         subtitle: "Click to hear My Letter",
         recipient: "My Gorilala Dramebaaz",
-        paragraphs: ["Its your Birth and i finally learn how to make this kind of website it tooks me a year to learn and create this😭,  Anyways It's my babies Birthday so  Happy Birth My love My Soulmate, I Love you So much 💖😁"],
+        paragraphs: ["Its your Birth and i finally learn how to make this kind of website it tooks me a year to learn and create this😭,  Anyways It's my babies Birthday so  Happy Birthday My love My Soulmate, I Love you So much 💖😁"],
         signature: `Yours sincerely,
-Shravss, Sir ji`
+Shravss, Sir ji, silly boy`
     },
     game: {
         title: "Play a Game!",
@@ -15777,12 +15777,12 @@ Shravss, Sir ji`
         text: "I regret my careless mistakes and the pain they caused.",
         caption: "I'm truly sorry and promise to do better."
     }, {
-        text: "This is us btw",
-        caption: "Don't be angyyyyyyy ."
+        text: "This is Whole Point",
+        caption: "Never Give up on eachother"
     }],
     poem: {
         title: "My Such Things That i Wanna Tell You ✨",
-        lines: ["First Of All i'm Sorry i made you really uncormtable and not be loved, i Know mene bohot galtiya I know mene bohut galtiya heee babe mene tuzee proper time nhi diya terese thik ase baat nhi ki jab tuu pura puraa raat hoti thi kyuki aapan baat nhi kar pate theee I'm really sorry for my behaviour i know just sorry see tune joo bhi face kiya meri wajah see woo wapis nhi aayenga yaa heal honga mene bohut galat behave Kiya tere sath Tuze time nhi diya Tuzeee valuable feel nhi karwaya muze tuzee emotional support nhi diya tere pe possessiveness dikhaya but babe mere mind mee ye nhi tha ki muzee tere pee pyaar nhi tere pee trust nhi i trust you more than myself I do I Love you I felt this for someone Mere actions bure the bohut bohut bure the But babe please I'm trying my best to be the best boyfriend for you for your favourite person your comfort place mene bohut bohut bohut galtiya kar di ek perfect relation mee kharab kar raha tha you were always perfect and I'm trying to be perfect and I will meee galat hota huu tuuu muze maar chilaa gaali deee sab kar sab but never be cold baacha abhi kee time pee I'm not emotionally strong I want to many things for our future for family for you and mummy for that I want your emotional support babe I want you to be the you are with me always I want you back gori my soulmate I'll my best to be better I'm to week to express and explain my feelings mee nhi bol pata how I feel how I explain to it muzee yee bhi nhi pata mene abhi tuze isme kuch thik se bataya bhi he ki nhi jo jo muze lag raha tha mene woo thik se bola bhi he ki nhi woo bhi nhi pata i just miss you, Your hugs, Your Childish Behaviour, Your Simle, Your Obsession For me, Your Kisses, Holding Hands, and Your hands i pockit when we are together Thats Hurts more i dont know mee kyaa bola kyaaa samjhaya kyaa bataya but I know you understand what I'm trying to say to you babe I love you and I always I trying my best babe.... Soulmate 🫶"]
+        lines: ["First Of All i'm Sorry i made you really uncormtable and not be loved, i Know mene bohot galtiya I know mene bohut galtiya heee babe mene tuzee proper time nhi diya terese thik ase baat nhi ki jab tuu pura puraa raat hoti thi kyuki aapan baat nhi kar pate theee I'm really sorry for my behaviour i know just sorry see tune joo bhi face kiya meri wajah see woo wapis nhi aayenga yaa heal honga mene bohut galat behave Kiya tere sath Tuze time nhi diya Tuzeee valuable feel nhi karwaya muze tuzee emotional support nhi diya tere pe possessiveness dikhaya but babe mere mind mee ye nhi tha ki muzee tere pee pyaar nhi tere pee trust nhi i trust you more than myself I do I Love you I felt this for someone Mere actions bure the bohut bohut bure the But babe please I'm trying my best to be the best boyfriend for you for your favourite person your comfort place mene bohut bohut bohut galtiya kar di ek perfect relation mee kharab kar raha tha you were always perfect and I'm trying to be perfect and I will meee galat hota huu tuuu muze maar chilaa gaali deee sab kar sab but never be cold baacha abhi kee time pee I'm not emotionally strong I want to many things for our future for family for you and mummy for that I want your emotional support babe I want you to be the you are with me always I want you back gori my soulmate i Want to Cheer You Up for your dreams i support in every step you take i want travell with wherever you there i follow you I'll my best to be better I'm to week to express and explain my feelings mee nhi bol pata how I feel how I explain to it muzee yee bhi nhi pata mene abhi tuze isme kuch thik se bataya bhi he ki nhi jo jo muze lag raha tha mene woo thik se bola bhi he ki nhi woo bhi nhi pata i just miss you, Your hugs, Your Childish Behaviour, Your Simle, Your Obsession For me, Your Kisses, Holding Hands, and Your hands i pockit when we are together Thats Hurts more i dont know mee kyaa bola kyaaa samjhaya kyaa bataya but I know you understand what I'm trying to say to you babe This Silly boy loves you alot and I always do I trying my best babe Sab Thoda muze Samajh Lena.... Soulmate 🫶"]
     },
     ui: {
         musicHint: "Click to Play music 🎵",
