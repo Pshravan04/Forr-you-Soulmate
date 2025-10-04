@@ -5,7 +5,7 @@
     for (const i of document.querySelectorAll('link[rel="modulepreload"]'))
         r(i);
     new MutationObserver(i => {
-        for (const o of i)
+        for (const o of i) 
             if (o.type === "childList")
                 for (const s of o.addedNodes)
                     s.tagName === "LINK" && s.rel === "modulepreload" && r(s)
@@ -15369,12 +15369,12 @@ const Fw = rr("X", [["path", {
     d: "m6 6 12 12",
     key: "d8bk6v"
 }]])
-  , zw = "/assets/music1-ClPh4k2q.mp3"
-  , Bw = "/assets/music2-mdcMq3L1.mp3"
-  , Uw = "/assets/music3-BbkozScL.mp3"
+  , zw = "/assets/badeaache.mp3"
+  , Bw = "/assets/stuckswithyou.mp3"
+  , Uw = "/assets/theycallthislove.mp3"
   , bw = "/assets/pic1-DDdxw6b7.gif"
   , $w = "/assets/pic2-BrXUnpVB.jpg"
-  , Hw = "/assets/VID_20251002_024023_717.mp4"
+  , Hw = "/assets/IMG_20250921_140300.jpg"
   , Yt = ({children: e, animation: t="fade", delay: n=0, duration: r=.5, threshold: i=.1, once: o=!0}) => {
     const s = T.useRef(null)
       , l = Dw(s, {
@@ -16294,15 +16294,15 @@ function qw() {
       , [E,h] = T.useState(!1)
       , p = ci()
       , m = T.useMemo( () => [{
-        title: "Dil Ka Jo Haal Hai",
+        title: "You Me and beach with this song",
         info: "🤌",
         src: zw
     }, {
-        title: "If the world was ending",
-        info: "😁",
+        title: "Its stucks With You",
+        info: "😭",
         src: Bw
     }, {
-        title: "Me Gustas Tu",
+        title: "I Know im fool but...",
         info: "🙂",
         src: Uw
     }], []);
@@ -16894,7 +16894,7 @@ function qw() {
                             className: "font-comic text-xl text-gray-800 leading-relaxed",
                             children: ['💝 "', ne.panels[2].text, '"']
                         })
-                    }), y.jsx(D.video, {
+                    }), y.jsx(D.img, {
                         src: Hw,
                         alt: "Apology doodle",
                         className: "rounded-2xl mb-6 w-full h-80 object-cover shadow-xl border-4 border-white",
